@@ -1,0 +1,1 @@
+this is a second file in merge-rebase test new branch
