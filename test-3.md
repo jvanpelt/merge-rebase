@@ -1,0 +1,1 @@
+this is a third file in merge-rebase master
